@@ -5,3 +5,5 @@ Current link to preprint: https://www.authorea.com/doi/full/10.22541/essoar.1685
 
 Each file produces the figure of the same name.
 The data used to produce the figures can be donwloaded from https://doi.org/10.7298/xr82-sv86 
+
+https://zenodo.org/badge/latestdoi/668021471
